@@ -65,8 +65,6 @@
   <li class="my-0"><strong>Navigate into the directory</strong></li>
   <pre><code>cd EDA-od-Heart-Failure-Clinical-Records-</code></pre>
 
-  <li class="my-0"><strong>Install required libraries</strong></li>
-  <pre><code>pip install -r requirements.txt</code></pre>
 </ol>
 
 <h3 id="usage">💡 Usage</h3>
